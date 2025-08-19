@@ -33,4 +33,12 @@
         </plugins>
     </pluginManagement>
 </build>
+
+<dependencies><dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.10.2</version> <!-- latest stable -->
+    <scope>test</scope>
+</dependency>
+</dependencies>
 </project>
